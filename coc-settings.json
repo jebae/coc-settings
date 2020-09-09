@@ -1,0 +1,7 @@
+{
+	"eslint.autoFixOnSave": true,
+	"javascript.validate.enable": false,
+	"stylelintplus.autoFixOnSave": true,
+	"typescript.suggest.completeFunctionCalls": false,
+  "javascript.suggest.completeFunctionCalls": false
+}
